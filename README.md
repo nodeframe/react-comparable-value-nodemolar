@@ -31,3 +31,5 @@ This project use storybook for developing and testing. So you can just run story
 
 This will build the project from entry point (``/src/index.js``) to ``/dist/index.js``.
 
+### Support
+Now  this project support only `css`. `scss` is not supported in this project yet.
