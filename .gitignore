@@ -1,0 +1,11 @@
+# Webstorm
+.idea
+
+# Node modules
+node_modules
+
+# Build folder
+dist
+
+# OSX
+.DS_Store
