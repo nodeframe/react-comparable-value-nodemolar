@@ -1,3 +1,3 @@
-import TestComponent from './TestComponent';
+import ComparableValue from './ComparableValueComponent';
 
-export default TestComponent;
+export default ComparableValue;
